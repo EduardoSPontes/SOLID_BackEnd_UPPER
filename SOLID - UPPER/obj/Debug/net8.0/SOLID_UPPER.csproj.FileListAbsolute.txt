@@ -1,0 +1,14 @@
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\bin\Debug\net8.0\SOLID_UPPER.exe
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\bin\Debug\net8.0\SOLID_UPPER.deps.json
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\bin\Debug\net8.0\SOLID_UPPER.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\bin\Debug\net8.0\SOLID_UPPER.dll
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\bin\Debug\net8.0\SOLID_UPPER.pdb
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.dll
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\refint\SOLID_UPPER.dll
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.pdb
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\SOLID_UPPER.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Documentos\BACK_UPPER\SOLID - UPPER\SOLID - UPPER\SOLID - UPPER\obj\Debug\net8.0\ref\SOLID_UPPER.dll
